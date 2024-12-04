@@ -9,9 +9,7 @@
 
 [.format METODU](https://github.com/ebrarrkaya/BUGUNUN-KONUSU/blob/cbf84ad52884ca49176db11bfa46ca65e8658b71/formatmetodu.md)
 
-[TİP DÖNÜŞÜM YAPILARI](https://github.com/ebrarrkaya/-BUGUNUN-KONUSU-/blob/2e982454cabf26a29eea1c39a3557c8ebbd3c2f5/tipdonusumyapiari.md)
-
-[TİP DÖNÜŞÜM KULLANIMLARI](https://github.com/ebrarrkaya/-BUGUNUN-KONUSU-/blob/2e982454cabf26a29eea1c39a3557c8ebbd3c2f5/tipdonusum.md)
+[TİP DÖNÜŞÜM YAPILARI](https://github.com/ebrarrkaya/-BUGUNUN-KONUSU-/blob/24557512d529c3fb087f6afd53a2fc99b34a764f/tipdonusumyapiari.md)
 
 [ÇOKLU VERİ ELEMANLARI](https://github.com/ebrarrkaya/404/blob/d5b2ab3d01a74a6a70d163d23cc641c674102d20/cokluverielemanlari.md)
 
