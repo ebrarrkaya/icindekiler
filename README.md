@@ -19,8 +19,6 @@
 
 [DİLİMLEME YAPISI](https://github.com/ebrarrkaya/404/blob/da4061573b04877e1b2aa565d0d2d9510499937f/dilimleme.md)
 
-[KOŞULLU YAPILAR](https://github.com/ebrarrkaya/505/blob/60a93eea7cb8644c97554742ea28648161855912/kosullu.md)
+[KOŞULLU YAPILAR](https://github.com/ebrarrkaya/505/blob/08edc2473236181a728f801ba405e0f173e7fb43/kosullu.md)
 
-[ELİF KOŞULU](https://github.com/ebrarrkaya/202/blob/1637b9f99bf5a076b979aa9a06433d1d757d8982/elif.md)
-
-[ELSE KOŞULU](https://github.com/ebrarrkaya/202/blob/1637b9f99bf5a076b979aa9a06433d1d757d8982/else.md)
+[DÖNGÜLER](https://github.com/ebrarrkaya/505/blob/cab0c7a8747e78c20df6df0f5c201dcd729b5840/READDDD.md)
